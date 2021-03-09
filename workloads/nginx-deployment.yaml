@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: <repo>/<tag>
+        image: 201318644/nginx:v3
         ports:
         - containerPort: 80
